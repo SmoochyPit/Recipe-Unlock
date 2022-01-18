@@ -1,0 +1,1 @@
+This is a Trident file structure template for my own use. Feel free to use it without credit or anything-- I waive all rights. Just make sure you change any applicable files (especially those with my username).

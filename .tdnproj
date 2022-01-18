@@ -1,0 +1,7 @@
+{
+	
+	"target-version": [1, 18, 1],
+	"default-namespace": "template",
+	"language-level": 2
+		
+}

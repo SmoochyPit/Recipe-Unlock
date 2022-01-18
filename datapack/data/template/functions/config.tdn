@@ -1,0 +1,8 @@
+@ on compile
+@ priority 3
+
+global final var config = {
+
+    
+
+}

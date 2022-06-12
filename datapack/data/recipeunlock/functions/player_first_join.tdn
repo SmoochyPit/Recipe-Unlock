@@ -1,0 +1,16 @@
+@ require recipeunlock:config
+
+recipe give @s *
+
+if (config.clear_inventory) {
+
+    define function /clear_inventory {
+        clear @a[tag=ru.clear]
+
+        tag @a remove ru.clear
+    }
+
+    tag @s add ru.clear
+    schedule function /clear_inventory 1t
+
+}

@@ -1,1 +1,3 @@
-This is a Trident file structure template for my own use. Feel free to use it without credit or anything-- I waive all rights. Just make sure you change any applicable files (especially those with my username).
+This is a simple recipe unlocking datapack. This data pack unlocks ONCE per player when they first join the world, then optionally clears your inventory (You can disable it and do it and do it yourself if you'd like.)
+
+This data pack is designed to be more compatible and less intrusive than well-known alternatives.

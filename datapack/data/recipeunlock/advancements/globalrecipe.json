@@ -1,7 +1,7 @@
 {
     "display": {
-        "title": "Pack Template",
-        "description": "This is a placeholder",
+        "title": "Simple Recipe Unlock",
+        "description": "This unlocks all recipes at load",
         "icon": {
             "item": "minecraft:barrier"
         },

@@ -4,7 +4,7 @@
 		
 		"default-definition-packs": [
 			
-			"../../Minecraft-Definitions/defpacks/zipped/minecraft_j_1_18.zip"
+			"../../Minecraft-Definitions/featuremaps/defpacks/zipped/minecraft_j_1_18.zip"
 			
 		],
 		"feature-map": "../../Minecraft-Definitions/featuremaps/j_1_18.json",
@@ -18,7 +18,7 @@
 		
 		"directories": {
 			
-			"data-pack": "out/template.zip"
+			"data-pack": "out/recipe-unlock.zip"
 			
 		},
 		"export-comments": false

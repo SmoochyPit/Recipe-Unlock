@@ -1,7 +1,7 @@
 {
 	
-	"target-version": [1, 18, 1],
-	"default-namespace": "template",
+	"target-version": [1, 18, 2],
+	"default-namespace": "recipeunlock",
 	"language-level": 2
 		
 }

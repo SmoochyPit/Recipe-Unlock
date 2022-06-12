@@ -3,6 +3,6 @@
 
 global final var config = {
 
-    
+    clear_inventory: true
 
 }
